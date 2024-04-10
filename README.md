@@ -2,7 +2,7 @@
 #### _"If my life were an algorithm, it would be an infinite loop of learning, laughter, and a touch of controlled chaos"_
 
 💻 Currently pursuing a degree in Systems Analysis and Development;<br>
-🛡️ Apprentice in cybersecurity, with some trainings and certifications, pursuing excellence in digital protection;<br>
+🛡️ Beginning my journey in cybersecurity as a SOC Analyst, pursuing excellence in digital protection;<br>
 🚀 After nearly 7 years of entrepreneurship in the fashion industry, I transitioned careers to technology;<br>
 🌌 Fun facts: love spending time in nature, and geeking out over astronomy and mind-bending movies;<br>
 😀 Always ready to face challenges with a smile on my face;<br>
